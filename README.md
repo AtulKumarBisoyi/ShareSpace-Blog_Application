@@ -18,6 +18,6 @@ Authentication: JWT (JSON Web Tokens)
 API Testing: Thunder Client (VSCode extension)
 Password Security: Bcrypt.js for password hashing
 
-Video for refrence - 
+Check out the project - 
 https://github.com/user-attachments/assets/e7620fcf-a8e1-4221-b766-344283277a0e
 
